@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome_text">
+        Please Enter your details before we begin!
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="name_view">Name :</string>
+    <string name="email_view">Email :</string>
+    <string name="quiz_one">Spelling Quiz</string>
+    <string name="quiz_question_one">Which of the following is correct?</string>
+    <string name="quiz_question_two">Which of the following is preferred in American English?</string>
+    <string name="continue_string">Continue</string>
+    <string name="quiz_question_three">Which THREE balls are needed to be moved to turn the image upside down? Choose any three options</string>
+    <string name="quiz_question_four">Choose the shape that you think does not go with the other three and type your answer in the given box.</string>
+    <string name="quiz_question_five">Mr. and Mrs. Winchester have six sons and each son has one sister. How many members are in Winchester family?</string>
+    <string name="username_text">Hi,</string>
+    <string name="calculate_string">Calculate Score</string>
+    <string name="share_string">Share Score</string>
+    <string name="score_text" />
+    <string name="result_text" />
+    <string name="answers_string">Check Answers</string>
+    <string name="answer_string">(10) Mr. and Mrs. Wenchester = 2, Six sons = 6, Each son has one sister = 1; 2+6+1=9</string>
+    <string name="about_string1">Developer : Foram Chauhan</string>
+    <string name="about_string2">Purpose : Udacity Nanodegree Program</string>
+    <string name="about_string3">Date : 14/12/2016</string>
+</resources>
